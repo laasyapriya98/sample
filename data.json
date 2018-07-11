@@ -28,5 +28,31 @@
       "Year":"2014",
       "percentage":"93%"
     }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "info":["C","C++","Python","Java","Ruby","R"]
+    },
+    {
+      "title":"Databases",
+      "info":["Oracle","mySql","Sql"]
+    },
+    {
+      "title":"Operating Systems",
+      "info":["Windows","MAC","Unix","KaliLinux"]
+    },
+    {
+      "title":"Web Technologies",
+      "info":["HTML","CSS","XML","JavaScript"]
+    }
+  ],
+  "achievements":[
+    {
+      "extracurricular":"Got four certificates in my school and college",
+      "internships":"Got two certificates for completing internships throgh internshala",
+      "cocurricular":"Got four certificates for participation in cocurricular activities",
+      "training":"Completed my training in courses like C,C++,Python"
+    }
   ]
 }

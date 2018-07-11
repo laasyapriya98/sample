@@ -5,7 +5,15 @@
 .parent{
   border: 2px solid blue;
 }
-
+table{
+  width: 90%;
+}
+td{
+  padding: 3%;
+}
+tr:nth-child(even){
+  background: #ddd;
+}
 a{
   word-wrap: break-word;
 }
@@ -16,7 +24,7 @@ a{
   border: 2px solid red;
   padding: 2%;
   margin: 2%;
-  border-radius: 10%;
+  border-radius: 3%;
   font-size: 30px;
   background-color: pink;
 }
@@ -28,7 +36,7 @@ a{
   padding:2%;
   margin: 2%;
   font-size: 30px;
-  border-radius: 10%;
+  border-radius: 3%;
   background-color: pink;
 }
 
@@ -62,6 +70,7 @@ img{
     padding: 8%;
     margin: 2%;
     font-size: 30px;
+    border-style:glazed;
     border-radius: 10%;
     background-color: skyblue;
   }
