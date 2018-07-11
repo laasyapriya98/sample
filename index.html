@@ -2,10 +2,30 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Resume</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Flexbox</title>
+    <style>
+    .flex{
+      display: flex;
+      flex-direction:row;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+      .flex>div{
+        background-color: yellow;
+        margin:2% 3% 5% 2%;
+        padding: 4%;
+        font-size: 150px;
+      }
+    </style>
   </head>
   <body>
-    <h1>This is my first project</h1>
+    <div class="flex">
+      <div style="color:pink">A</div>
+      <div style="color:violet">B</div>
+      <div style="color:skyblue">C</div>
+      <div style="color:green">D</div>
+    </div>
 
   </body>
 </html>

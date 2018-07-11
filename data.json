@@ -1,0 +1,32 @@
+{
+  "details":{
+    "name":"LAASYA PRIYA",
+    "image":"1.jpeg",
+    "email":"mallampatilaasyapriya99@gmail.com",
+    "mobile":"9847521547",
+    "address":"PVP COLLEGE"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PVP",
+      "Year":"2016-20",
+      "percentage":"90%"
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"Sri Chaitanya Jr College",
+      "Year":"2014-16",
+      "percentage":"87%"
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Sri Krishna Veni Talent School",
+      "Year":"2014",
+      "percentage":"93%"
+    }
+  ]
+}
