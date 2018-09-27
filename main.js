@@ -85,7 +85,7 @@ function skills(skillinfo){
   var hr=document.createElement("hr");
   skillsHeading.appendChild(hr);
   var skillTable=document.createElement("table");
-  skillTable.border="1";
+  skillTable.border="2";
   childTwo.appendChild(skillTable);
   var tableData="";
   for(var i=0;i<skillinfo.length;i++){
